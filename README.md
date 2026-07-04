@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Vijay Jadhav
 
-<!--
-**vij4yjadhav/vij4yjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Data Analyst | Generative AI Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate passionate about Data Analytics, Artificial Intelligence, and building real-world solutions using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Streamlit
+- Flask
+- PostgreSQL
+- LangChain
+- HuggingFace
+- FAISS
+- RAG
+- REST APIs
+
+## 🌟 Featured Projects
+
+📄 PDF Chatbot using Generative AI
+
+📊 Customer Churn Analysis Dashboard
+
+💼 Job Market Analytics Dashboard
+
+🛒 Customer Shopping Behaviour Analysis
+
+## 🌐 Connect with Me
+
+LinkedIn
+
+https://www.linkedin.com/in/vijay-jadhav-140913281/
+
+GitHub
+
+https://github.com/vij4yjadhav
+
+Email
+
+vijayjadhav1926@gmail.com
+
+---
+
+⭐ If you like my projects, feel free to star the repositories!
